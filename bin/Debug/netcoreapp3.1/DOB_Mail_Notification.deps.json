@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DOB_Mail_Notification/1.0.0": {
+        "runtime": {
+          "DOB_Mail_Notification.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DOB_Mail_Notification/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

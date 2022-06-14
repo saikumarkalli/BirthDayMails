@@ -1,0 +1,14 @@
+C:\Users\KalliSaiKumar\source\repos\DOB_Mail_Notification\DOB_Mail_Notification\bin\Debug\netcoreapp3.1\DOB_Mail_Notification.exe
+C:\Users\KalliSaiKumar\source\repos\DOB_Mail_Notification\DOB_Mail_Notification\bin\Debug\netcoreapp3.1\DOB_Mail_Notification.deps.json
+C:\Users\KalliSaiKumar\source\repos\DOB_Mail_Notification\DOB_Mail_Notification\bin\Debug\netcoreapp3.1\DOB_Mail_Notification.runtimeconfig.json
+C:\Users\KalliSaiKumar\source\repos\DOB_Mail_Notification\DOB_Mail_Notification\bin\Debug\netcoreapp3.1\DOB_Mail_Notification.runtimeconfig.dev.json
+C:\Users\KalliSaiKumar\source\repos\DOB_Mail_Notification\DOB_Mail_Notification\bin\Debug\netcoreapp3.1\DOB_Mail_Notification.dll
+C:\Users\KalliSaiKumar\source\repos\DOB_Mail_Notification\DOB_Mail_Notification\bin\Debug\netcoreapp3.1\DOB_Mail_Notification.pdb
+C:\Users\KalliSaiKumar\source\repos\DOB_Mail_Notification\DOB_Mail_Notification\obj\Debug\netcoreapp3.1\DOB_Mail_Notification.csproj.AssemblyReference.cache
+C:\Users\KalliSaiKumar\source\repos\DOB_Mail_Notification\DOB_Mail_Notification\obj\Debug\netcoreapp3.1\DOB_Mail_Notification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KalliSaiKumar\source\repos\DOB_Mail_Notification\DOB_Mail_Notification\obj\Debug\netcoreapp3.1\DOB_Mail_Notification.AssemblyInfoInputs.cache
+C:\Users\KalliSaiKumar\source\repos\DOB_Mail_Notification\DOB_Mail_Notification\obj\Debug\netcoreapp3.1\DOB_Mail_Notification.AssemblyInfo.cs
+C:\Users\KalliSaiKumar\source\repos\DOB_Mail_Notification\DOB_Mail_Notification\obj\Debug\netcoreapp3.1\DOB_Mail_Notification.csproj.CoreCompileInputs.cache
+C:\Users\KalliSaiKumar\source\repos\DOB_Mail_Notification\DOB_Mail_Notification\obj\Debug\netcoreapp3.1\DOB_Mail_Notification.dll
+C:\Users\KalliSaiKumar\source\repos\DOB_Mail_Notification\DOB_Mail_Notification\obj\Debug\netcoreapp3.1\DOB_Mail_Notification.pdb
+C:\Users\KalliSaiKumar\source\repos\DOB_Mail_Notification\DOB_Mail_Notification\obj\Debug\netcoreapp3.1\DOB_Mail_Notification.genruntimeconfig.cache
