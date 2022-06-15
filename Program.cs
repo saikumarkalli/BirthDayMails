@@ -9,7 +9,7 @@ namespace DOB_Mail_Notification
             Console.WriteLine("Hello World!");
 
             EmailMethods emailMethods = new EmailMethods();
-            emailMethods.GenerateBirtdayMails();
+            emailMethods.GenerateBirtdayData();
         }
     }
 }
